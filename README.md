@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width = "500" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width = "500" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <h1 align="center">Hi 👋, I'm TANISHK JAIN</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
