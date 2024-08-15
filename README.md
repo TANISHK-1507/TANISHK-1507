@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TANISHK-1507](https://github.com/TANISHK-1507)
 
-- 💬 Ask me about **html, Css, JavaScript, Database, Figma**
-
 - 📫 How to reach me **jaintanishk785@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
