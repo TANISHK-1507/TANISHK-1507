@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone 👋, I'm TANISHK JAIN</h1>
+<h1 align="center">Hey Everyone 👋</h1>
 <div align = "center"> <img src = "https://github.com/TANISHK-1507/TANISHK-1507/blob/main/Banner.jpg"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishk-1507&label=Profile%20views&color=0e75b6&style=flat" alt="tanishk-1507" /> </p>
 <img align = "right" alt = "coding" width = "400" src = "https://github.com/TANISHK-1507/TANISHK-1507/blob/main/coding.gif">
