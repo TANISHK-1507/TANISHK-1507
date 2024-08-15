@@ -1,6 +1,6 @@
 <h1 align="center">Hi Everyone 👋, I'm TANISHK JAIN</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishk-1507&label=Profile%20views&color=0e75b6&style=flat" alt="tanishk-1507" /> </p>
-
+<img align = "right" alt = "coding" width = "400" src = "https://github.com/TANISHK-1507/TANISHK-1507/blob/main/coding.gif">
 - 🔭 I’m currently working on **Data Visualization and Web Development**
 
 - 🌱 I’m currently learning **DSA , backend integration , PHP**
