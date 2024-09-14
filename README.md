@@ -4,7 +4,7 @@
 <img align = "right" alt = "coding" width = "400" src = "https://github.com/TANISHK-1507/TANISHK-1507/blob/main/coding.gif">
 - 🔭 I’m currently working on **Data Visualization and Web Development**
 
-- 🌱 I’m currently learning **DSA , backend integration , PHP**
+- 🌱 I’m currently learning **DSA , Data Analysis and Data Visualization**
 
 - 🤝 I’m looking for help with any **Open source projects**
 
